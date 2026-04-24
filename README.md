@@ -1,25 +1,25 @@
-OVERVIEW:
+📌 Overview
 
 This project is a Mini Inverter PCB designed using KiCad that converts 12V DC into AC output using a push-pull topology. The design is centered around the IR2153 gate driver IC and IRLZ34N MOSFETs, driving a center-tapped transformer to generate an alternating waveform.
 
 The project demonstrates practical implementation of power electronics design, including switching circuits, transformer interfacing, PCB layout considerations, and thermal management.
 
-WORKING PRINCIPLE:
-**-DC Input Supply**: A 12V DC source powers the circuit.
-**-Oscillator & Driver (IR2153)**:
+⚙️ Working Principle
+DC Input Supply
+A 12V DC source powers the circuit.
+Oscillator & Driver (IR2153)
 The IR2153 generates alternating gate signals.
 These signals control switching of MOSFETs.
-**-MOSFET Switching Stage:**
+MOSFET Switching Stage
 Two IRLZ34N MOSFETs switch alternately.
 This creates an alternating current through the transformer primary.
-**-Transformer Operation**:
+Transformer Operation
 A center-tapped transformer converts the switching waveform into AC.
 The output is taken from the secondary winding.
-**-Output**:
+Output
 AC voltage is available across the transformer output terminals.
-
-COMPONENTS USED AND THEIR PURPOSE:
-Power Section
+🧩 Components Used & Their Purpose
+🔌 Power Section
 Battery / DC Input (12V)
 Provides input power to the circuit.
 Terminal Block / Connector
