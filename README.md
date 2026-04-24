@@ -80,7 +80,7 @@ Basic thermal considerations for MOSFETs
 -Ensure correct transformer rating before use
 
 🚀 Future Improvements
--Improved PCB routing for power efficiency
--Better thermal management design
--Addition of protection circuits (fuse, reverse polarity)
--Conversion to pure sine wave inverter
+*Improved PCB routing for power efficiency
+*Better thermal management design
+*Addition of protection circuits (fuse, reverse polarity)
+* Conversion to pure sine wave inverter
