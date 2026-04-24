@@ -74,13 +74,13 @@ Basic thermal considerations for MOSFETs
 3D visualization included
 
 ⚠️ Important Notes
-Output is square wave AC, not pure sine wave
-Not suitable for sensitive electronics
-Proper heatsinking required for MOSFETs under load
-Ensure correct transformer rating before use
+-Output is square wave AC, not pure sine wave
+-Not suitable for sensitive electronics
+-Proper heatsinking required for MOSFETs under load
+-Ensure correct transformer rating before use
 
 🚀 Future Improvements
-Improved PCB routing for power efficiency
-Better thermal management design
-Addition of protection circuits (fuse, reverse polarity)
-Conversion to pure sine wave inverter
+-Improved PCB routing for power efficiency
+-Better thermal management design
+-Addition of protection circuits (fuse, reverse polarity)
+-Conversion to pure sine wave inverter
